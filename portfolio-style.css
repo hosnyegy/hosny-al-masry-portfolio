@@ -850,7 +850,7 @@ strong {
   height: 150px;
 }
 
-.custom-form button[type='submit'] {
+.custom-form .button-submit {
   background: var(--secondary-color);
   border: none;
   border-radius: var(--border-radius-large);
