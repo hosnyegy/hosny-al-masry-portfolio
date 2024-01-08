@@ -861,6 +861,17 @@ strong {
   margin-bottom: 0;
 }
 
+.contact-form-button-submit {
+  background: var(--white-color);
+  box-shadow: none;
+  border: 2px solid var(--border-color);
+  color: var(--p-color);
+  margin-bottom: 24px;
+  padding-top: 13px;
+  padding-bottom: 13px;
+  outline: none;
+}
+
 .custom-form .button-submit:hover,
 .custom-form .button-submit:focus,
 .custom-form .contact-form-button-submit:hover,
