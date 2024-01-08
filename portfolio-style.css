@@ -861,14 +861,14 @@ strong {
   margin-bottom: 0;
 }
 
-.contact-form-button-submit {
-  background: var(--white-color);
+.contact-form-button {
+  background: var(--white-color) !important;
   box-shadow: none;
   border: 2px solid var(--border-color);
   color: var(--p-color);
   margin-bottom: 24px;
-  padding-top: 13px;
-  padding-bottom: 13px;
+  padding-top: 13px !important;
+  padding-bottom: 13px !important;
   outline: none;
 }
 
