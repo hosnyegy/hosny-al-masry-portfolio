@@ -860,8 +860,8 @@ strong {
   margin-bottom: 0;
 }
 
-.custom-form button[type='submit']:hover,
-.custom-form button[type='submit']:focus {
+.custom-form .button-submit:hover,
+.custom-form .button-submit:focus {
   background: var(--primary-color);
   border-color: transparent;
 }
