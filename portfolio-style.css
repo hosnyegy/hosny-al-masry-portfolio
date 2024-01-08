@@ -862,7 +862,7 @@ strong {
 
 .custom-form .button-submit:hover,
 .custom-form .button-submit:focus {
-  /* background: var(--primary-color); */
+  background: #535da1 !important;
   border-color: transparent;
 }
 
