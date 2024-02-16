@@ -756,8 +756,8 @@ strong {
 -----------------------------------------*/
 .contact {
   background: var(--section-bg-color);
-  border-top: 1px solid #24b78a;
-}
+/*   border-top: 1px solid #24b78a;
+} */
 
 .contact-info {
   background: var(--white-color);
