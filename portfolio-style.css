@@ -735,7 +735,7 @@ strong {
   border-radius: var(--border-radius-medium);
   display: block;
   width: 100%;
-  transform: rotate(10deg) translateY(80px);
+/*   transform: rotate(10deg) translateY(80px); */
   transition: all ease 0.5s;
 }
 
