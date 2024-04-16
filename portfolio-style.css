@@ -1040,8 +1040,8 @@ strong {
     background: var(--white-color);
   }
 
-  .index .navbar-brand,
-  .index .navbar-brand:hover {
+.navbar-brand,
+.navbar-brand:hover {
     color: var(--dark-color);
   }
 
