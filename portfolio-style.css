@@ -304,8 +304,8 @@ strong {
   box-shadow: 0 1rem 3rem rgb(0 0 0 / 18%);
 }
 
-.index .is-sticky .navbar-brand,
-.index .is-sticky .navbar-brand:hover {
+.is-sticky .navbar-brand,
+.is-sticky .navbar-brand:hover {
   color: var(--dark-color);
 }
 
@@ -1040,8 +1040,8 @@ strong {
     background: var(--white-color);
   }
 
-  .navbar-brand,
-  .navbar-brand:hover {
+  .index .navbar-brand,
+  .index .navbar-brand:hover {
     color: var(--dark-color);
   }
 
